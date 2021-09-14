@@ -16,4 +16,4 @@ const uniqe = (first, second) => {
    })
 
 };
-console.log(uniqe([1,2,3,4,5], [2,3,4,5,6]));
+console.log(uniqe([1,2,3,4,5], [2,3,4,5,6])); //Expected output [1,6]
